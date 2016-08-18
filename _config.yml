@@ -10,3 +10,4 @@ gems:
   - jekyll-timeago
   - jekyll-sitemap
 url: http://mongodb-tools.com
+host: 0.0.0.0
